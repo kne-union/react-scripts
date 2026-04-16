@@ -1,6 +1,6 @@
 {
   "name": "@kne/react-scripts",
-  "version": "5.1.1",
+  "version": "5.1.2",
   "description": "Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
@@ -65,10 +65,10 @@
     "react-refresh": "^0.18.0",
     "resolve": "^1.22.12",
     "resolve-url-loader": "^5.0.0",
-    "sass-loader": "^16.0.7",
+    "sass-loader": "^12.3.0",
     "semver": "^7.7.4",
     "source-map-loader": "^5.0.0",
-    "style-loader": "^4.0.0",
+    "style-loader": "^3.3.1",
     "tailwindcss": "^4.2.2",
     "terser-webpack-plugin": "^5.4.0",
     "webpack": "^5.106.2",
